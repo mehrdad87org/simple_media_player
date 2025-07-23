@@ -1,0 +1,3 @@
+PyQt6>=6.0.0
+PyQt6-Multimedia>=6.0.0
+PyQt6-MultimediaWidgets>=6.0.0
